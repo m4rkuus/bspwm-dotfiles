@@ -6,8 +6,14 @@ preview <a href="https://drive.google.com/file/d/1FYDhWzxgiqxImTaQw01NrMa42IZjls
 to install the polybar 
 ```
 git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+```
+```
 cd polybar-themes/
+```
+```
 ./setup.sh
+```
+```
 bash ~/.config/polybar/launch.sh
 
 Usage : launch.sh --theme
